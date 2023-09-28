@@ -1,0 +1,73 @@
+#login {
+    align-items: center;
+    display: block;
+    margin: auto;
+    width: 200px;
+
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app {
+    margin-top: 50px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:silver;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid black;
+    border-bottom: none;
+}
+
+button {
+    height: 20px;
+    background-color: white;
+    color: #555;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+button:hover {
+    border: 2px solid #555;
+}
+
+
+.todolist {
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
+
+#title {
+    text-align: center;
+}
+
+
+#main {
+    align-items: center;
+    width:700px;
+    height: 100px;
+    display: block;
+    margin:auto;
+}
+
+#left_todo {
+    font-style:normal;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#logout {
+    position: absolute;
+    margin-left: 200px;
+
+}
